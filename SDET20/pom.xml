@@ -24,7 +24,7 @@
     
     <profiles>
     <profile>
-    <id>demo2Test</id>
+    <id>reg</id>
     <build>
     <pluginManagement>
     <plugins>
@@ -44,7 +44,7 @@
       </profile>
       
       <profile>
-    <id>demo3Test</id>
+    <id>smoke</id>
     <build>
     <pluginManagement>
     <plugins>

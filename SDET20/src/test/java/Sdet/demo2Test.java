@@ -9,6 +9,8 @@ public class demo2Test {
 	{
 		System.out.println("Reg Addition of two number");
 		
+		System.out.println("test yantra");
+		
 		
 		
 		
