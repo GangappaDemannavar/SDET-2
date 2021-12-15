@@ -9,6 +9,8 @@ public class Failed {
 	public void add()
 	{
 		System.out.println("Failed test case is running");
+		
+		System.out.println("Test script");
 		Assert.fail("failed");
 		
 	}
